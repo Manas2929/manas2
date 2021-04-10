@@ -1,1 +1,2 @@
-# manas2
+# synchronousBallMovement
+Ball moving synchronously
